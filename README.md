@@ -1,3 +1,1 @@
-<div align='center'> <h2>Hola, soy Andrés.</h2><div align='center'>
-<img src="./peepo.png"/>
-
+<div align='center'> <h2>Welcome to my GitHub, I'm Andrés.</h2><div align='center'>
