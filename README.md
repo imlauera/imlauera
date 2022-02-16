@@ -2,7 +2,7 @@
 <h2>Hola, soy Andrés.</h2>
 
 <a href="https://ar.linkedin.com/in/andr%C3%A9s-imlauer-a90bb0215">
-  <img align="center" style="margin:0.5rem" src="https://img.shields.io/badge/LinkedIn-Profile-informational?style=flat&logo=linkedin&logoColor=white&color=0D76A8" alt="Imlauer, Andrés LinkedIn" />
+  <img align="center" style="margin:0.5rem" src="https://img.shields.io/badge/LinkedIn-Profile-informational?style=flat&logo=linkedin&logoColor=white&color=0D76A8" alt="Imlauer, Andrés. LinkedIn" />
 </a>
 
 <!-- GitHub Stats -->
