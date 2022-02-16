@@ -1,16 +1,7 @@
 <center>
-## Bienvenidos a mi GitHub.
+<h2>Hola, soy Andrés.</h2>
 <hr>
-[![Braydon's GitHub Banner](./assets/GitHubHeader.png)](https://braydoncoyer.dev)
-
-
 [![LinkedIn Badge](https://img.shields.io/badge/LinkedIn-Profile-informational?style=flat&logo=linkedin&logoColor=white&color=0D76A8)](https://ar.linkedin.com/in/andr%C3%A9s-imlauer-a90bb0215)
-
-<!-- Pinned Repositories -->
-
-  <img align="center" style="margin:1rem 0.5rem" src="https://github-readme-stats.vercel.app/api/pin/?username=imlauera&repo=tailwindcss-v2-dark-mode-template&title_color=ffffff&text_color=c9cacc&icon_color=4AB197&bg_color=1A2B34" />
-
-<br>
 
 <!-- GitHub Stats -->
 
