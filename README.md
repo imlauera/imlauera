@@ -1,6 +1,5 @@
 <center>
 <h2>Hola, soy Andrés.</h2>
-<hr>
 [![LinkedIn Badge](https://img.shields.io/badge/LinkedIn-Profile-informational?style=flat&logo=linkedin&logoColor=white&color=0D76A8)](https://ar.linkedin.com/in/andr%C3%A9s-imlauer-a90bb0215)
 
 <!-- GitHub Stats -->
