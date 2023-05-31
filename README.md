@@ -1,7 +1,7 @@
 <h1 align="center">Hi 👋, I'm Andres</h1>
-<h3 align="center">A passionate developer from Argentina</h3>
+<h3 align="center">A developer from Argentina</h3>
 
-- 🌱 I’m currently learning **Symfony, Laravel, ExpressJS, TypeScript, Angular**
+- 🌱 I’m currently learning **Arduino, Machine Learning, Rust, Symfony, TypeScript, Angular**
 
 - 👨‍💻 All of my projects are available at [https://imlauerandres.github.io](https://imlauerandres.github.io)
 
